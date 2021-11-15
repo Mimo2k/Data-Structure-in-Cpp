@@ -1,5 +1,5 @@
-# Data-Structure-in-C-
-#100DaysofCode
+# Data-Structure-in-Cpp
+
 <div align="center">
 <a href="https://github/stars/Mimo2k/Data-Structure-in-Cpp"><img src="https://sloc.xyz/github/Mimo2k/Data-Structure-in-Cpp" alt="LOC"/></a>
 <a href="https://github/stars/Mimo2k/Data-Structure-in-Cpp"><img src="https://visitor-badge.laobi.icu/badge?page_id=Mimo2k.Data-Structure-in-Cpp" alt="visitor count"/></a>
